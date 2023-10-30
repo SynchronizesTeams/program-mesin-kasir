@@ -1,3 +1,8 @@
+Clone this repository
+```code
+git clone https://github.com/SynchronizesTeams/program-mesin-kasir.git
+```
+Or copy this code
 
 ```cpp
 #include <iostream>
