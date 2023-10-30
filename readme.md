@@ -33,7 +33,7 @@ int main() {
 	}
 	
 	cout<<endl;
-	cout<<"STRUK BELANJA MINI MARKET ABC"<<endl;
+	cout<<"STRUK BELANJA MINI MARKET"<<endl;
 	cout<<"---------------------------------------------------------"<<endl;
 	cout<<"No   Barang    Jumlah     Harga     Sub Total"<<endl;
 	for (int i=0;i<jum_beli;i++){
