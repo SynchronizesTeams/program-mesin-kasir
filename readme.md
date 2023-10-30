@@ -1,5 +1,5 @@
 
-```c++
+```klo
 #include <iostream>
 #include <string>
 #include <iomanip>
