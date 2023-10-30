@@ -1,5 +1,5 @@
 Clone this repository
-```code
+```js
 git clone https://github.com/SynchronizesTeams/program-mesin-kasir.git
 ```
 Or copy this code
